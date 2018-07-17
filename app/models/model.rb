@@ -1,3 +1,4 @@
 class Model
-  # Replace with Dog clas
+  # Replace with Dog class
+  def
 end
